@@ -1,0 +1,10 @@
+
+
+.button-active{
+    @apply bg-gradient-to-r from-green-500 to-lime-500 hover:bg-green-800
+}
+
+.button-deactive{
+    @apply bg-green-300 pointer-events-none
+}
+

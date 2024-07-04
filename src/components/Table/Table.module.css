@@ -1,0 +1,29 @@
+
+.button{
+    @apply bg-green-500
+}
+
+.container{
+    @apply flex gap-3 justify-center pr-4 pl-4 font-bold mt-4
+}
+
+table, th, td {
+   
+    padding: 10px;
+    width:100%;
+    border: solid 1px white;
+
+    
+  }
+  th{
+    @apply bg-gray-600
+  }
+  td{
+    @apply text-white
+  }
+
+  table{
+    @apply mt-6 
+  }
+
+  

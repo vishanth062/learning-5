@@ -1,0 +1,6 @@
+
+button{
+
+    @apply bg-green-600 rounded-lg pl-6 pr-6 shadow-lg hover:bg-green-800
+    
+}
